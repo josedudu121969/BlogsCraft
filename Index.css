@@ -1,0 +1,30 @@
+body {
+    background-image: url(../Assets/Tex_stone.gif);
+    color: #e0d0d0;
+    font-family: sans-serif;
+}
+
+img {
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.bar img {
+    background-repeat: repeat;
+    margin-left: -10px;
+    margin-top: -10px;
+    width: 1500px;
+    height: 50px;
+}
+
+.bar p {
+    background-position: center;
+    font-size:25px;
+    font-weight:bold;
+    margin-top: -43px
+}
